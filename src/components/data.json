@@ -1,0 +1,497 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Nguyễn Phú Tâm",
+        "email": "tamnpph08667@fpt.edu.vn",
+        "address": "Hà Nội",
+        "avatar": "https://via.placeholder.com/328x290.png",
+        "created_at": "15/04/2020"
+      },
+      {
+        "id": 2,
+        "name": "Nguyễn Tâm",
+        "email": "tamnpph08667@fpt.edu.vn",
+        "address": "Hà Nội",
+        "avatar": "https://via.placeholder.com/328x290.png",
+        "created_at": "15/04/2020"
+      }
+    ],
+    "posts": [
+      {
+        "title": "Những gam màu tươi sáng mở đầu trào lưu thời trang 2020",
+        "author": "admin",
+        "image": "https://media-giaoducthoidai.cdn.vccloud.vn/Uploaded/ngandk/2020-03-03/M2/ha-YBOM_thumb.jpg",
+        "decription": "Street style Sao Việt ngày càng lên hương vừa nữ tính, thanh lịch lại sang chảnh",
+        "body": "\"<p><strong>Street style Sao Việt ngày càng lên hương vừa nữ tính, thanh lịch lại sang chảnh</strong></p>\\n<p><img src=\\\"https://media-giaoducthoidai.cdn.vccloud.vn/uploaded/ngandk/2020-03-03/1211150867_FWZC.jpg\\\" alt=\\\"Empty\\\" width=\\\"800\\\" height=\\\"1100\\\" style=\\\"width: 439px; height: 608px;\\\" /></p>\\n<p>Combo váy đầm hồng phấn được Hoàng Thùy Linh kết hợp ăn ý với blazer phủ sắc pastel. Chiếc túi mini màu hồng neon chính là phụ kiện nhấn hoàn hảo cho set đồ dạo phố của chủ nhân bản hit “Duyên Âm”.</p>\\n<p><img src=\\\"https://media-giaoducthoidai.cdn.vccloud.vn/uploaded/ngandk/2020-03-03/611150454_TWOF.jpg\\\" alt=\\\"Empty\\\" width=\\\"1000\\\" height=\\\"1000\\\" style=\\\"width: 437.273px; height: 444px;\\\" /></p>\\n<p>Ngọc Trinh diện đồng hồ 4 tỉ cùng túi Hermes Himalayan cho chuyến shopping cuối tuần.</p>\\n<p>Midu cũng diện đồ trắng nhưng nhẹ nhàng hơn với váy liền đáng đuôi cá nhưng đáng nói nhất là chiếc túi Louis Vuiton trong suốt mà cô cầm trên tay.</p>\\n<p><img src=\\\"https://media-giaoducthoidai.cdn.vccloud.vn/uploaded/ngandk/2020-03-03/1011150646_XQNX.jpg\\\" alt=\\\"Empty\\\" width=\\\"1000\\\" height=\\\"1000\\\" style=\\\"width: 434px; height: 440px;\\\" /></p>\\n<p>Á hậu Thúy Vân thanh lịch duyên dáng với đầm trắng tinh khôi, người đẹp khoác hờ hững chiếc blazer tweed sang chảnh cùng túi Chanel cổ điển.</p>\"",
+        "created_at": "17/4/2020",
+        "id": 1
+      },
+      {
+        "title": "Xu hướng thời trang không thể thiếu khẩu trang hot bất ngờ 2020",
+        "author": "admin",
+        "image": "https://cafebiz.cafebizcdn.vn/thumb_w/600/2020/2020-photo2020-03-0216-20-38-15831408523212027272910-0-0-375-600-crop-1583140858563-637187709512547579.jpg",
+        "decription": "Ý tưởng của bộ sưu tập lần này được ra đời trong bối cảnh tất cả các ngành nghề đang phải đối diện với khó khăn do dịch corona.",
+        "body": "\"<p>Ý tưởng của bộ sưu tập lần này được ra đời trong bối cảnh tất cả các ngành nghề đang phải đối diện với khó khăn do dịch corona. Giờ đây, hình ảnh chiếc khẩu trang đã gắn liền với chúng ta khi xuất hiện tại nơi công cộng, công sở, cơ quan hay những nơi phải tiếp xúc với nhiều người. Là một trong những thương hiệu thời trang công sở dành cho nam được yêu thích tại thị trường Việt Nam, Pierre Cardin Shoes và Oscar Fashion vừa cho ra mắt bộ sưu tập áo polo Oscar cùng thông điệp vô cùng ấn tượng: \\\"Khẩu trang cũng cần ‘thời trang’, thời trang nay không thể thiếu khẩu trang\\\".</p> <p>Điểm khác biệt thú vị ở bộ sưu tập lần này là sự kết hợp giữa \\\"thời trang và khẩu trang\\\". Hai yếu tố tưởng chừng như không liên quan gì tới nhau nhưng lại được kết hợp hết sức hợp lý và hợp xu thế dành cho các đấng mày râu công sở. </p> <p>Những chiếc áo polo và sơ mi mạnh mẽ kết hợp với khẩu trang thời trang trong mùa dịch lần này, chắc chắn sẽ giúp các quý ông tự tin giao tiếp, gặp gỡ khách hàng, đối tác mà không cần lo lắng.</p> <p>Các mẫu khẩu trang trong bộ sưu tập lần này được thiết kế lịch thiệp, năng động và đảm bảo an toàn nơi công sở. Ngoài ra, màu sắc khẩu trang cũng được lựa chọn phù hợp, tinh tế để kết hợp với những mẫu áo công sở độc đáo.</p> <p>Đại diện công ty cho biết, bộ sưu tập thời trang kết hợp với khẩu trang lần này là một trong những hoạt động Pierre Cardin Shoes và Oscar Fashion góp phần bảo vệ sức khỏe của khách hàng và cộng đồng. </p> <p>Trước đó, Pierre Cardin Shoes và Oscar Fashion thực hiện chương trình phát miễn phí 50.000 khẩu trang kháng khuẩn và khẩu trang thời trang cao cấp tại tất cả cửa hàng Pierre Cardin Shoes toàn quốc./.</p> <div class=\\\"VCSortableInPreviewMode active noCaption\\\" type=\\\"Photo\\\" style=\\\"\\\"><div><img src=\\\"https://channel.mediacdn.vn/thumb_w/640/2020/3/2/photo-1-1583139512133444621521.jpg\\\" id=\\\"img_feaf7210-5c63-11ea-be10-457dc3fe8027\\\" w=\\\"1280\\\" h=\\\"960\\\" alt=\\\"Xu hướng thời trang công sở hot bất ngờ 2020: Thời trang nay không thể thiếu khẩu trang - Ảnh 1.\\\" title=\\\"Xu hướng thời trang công sở hot bất ngờ 2020: Thời trang nay không thể thiếu khẩu trang - Ảnh 1.\\\" rel=\\\"lightbox\\\" photoid=\\\"feaf7210-5c63-11ea-be10-457dc3fe8027\\\" type=\\\"photo\\\" style=\\\"max-width:100%;\\\" data-original=\\\"https://channel.mediacdn.vn/2020/3/2/photo-1-1583139512133444621521.jpg\\\" width=\\\"\\\" height=\\\"\\\"></div><div class=\\\"PhotoCMS_Caption\\\"><p data-placeholder=\\\"[nhập chú thích]\\\" class=\\\"NLPlaceholderShow\\\"></p></div></div>\"",
+        "created_at": "17/4/2020",
+        "id": 2
+      },
+      {
+        "title": "Những sàn diễn thời trang Xuân Hè 2020 khiến khán giả nhớ mãi",
+        "author": "admin",
+        "image": "https://www.elle.vn/wp-content/uploads/2020/03/26/395022/san-dien-thuong-hieu-thuan-chay-Stella-McCartney.jpg",
+        "decription": "Không đơn thuần là nơi ra mắt BST mới, sàn diễn thời trang Xuân Hè 2020 còn là “chất xúc tác” gắn kết ý tưởng sáng tạo của nhà thiết kế với xúc cảm rung động trong lòng người xem.",
+        "body": "\"<p>Không đơn thuần là nơi ra mắt BST mới, sàn diễn thời trang Xuân Hè 2020 còn là “chất xúc tác” gắn kết ý tưởng sáng tạo của nhà thiết kế với xúc cảm rung động trong lòng người xem. Cùng ELLE Việt Nam điểm lại những không gian trình diễn đáng nhớ nhất với câu chuyện và sắp đặt giàu ý nghĩa.</p>\\n<h2 style=\\\"text-align: justify;\\\">Dior</h2>\\n<p style=\\\"text-align: justify;\\\">Đội ngũ của Dior đã dựng nên một khu vườn với 170 cây xanh ngay giữa trường đua Longchamp. Sàn diễn vì thế được bao phủ bởi màu thiên nhiên và nhạc nền của bài hát River trong phim The Tree of Life. Sau buổi trình diễn, toàn bộ cây sẽ được trồng lại ở những khu vực khác nhau của Paris. Bên cạnh đó, tất cả đèn phát sáng trong buổi trình diễn đều được chạy bằng dầu canola có nguồn gốc từ hạt cải. Giám đốc sáng tạo <a href=\\\"https://www.elle.vn/tin-thoi-trang/thuong-hieu-dior-duoi-thoi-maria-grazia-chiuri-se-co-gi-moi\\\">Maria Grazia Chiuri</a> cùng với các cộng sự muốn “xanh hóa” trong khả năng cho phép để mang tới không gian thời trang giàu tính bền vững.</p>\\n<p><img class=\\\"sàn diễn Dior tuần lễ thời trang aligncenter wp-image-395264 size-full\\\" title=\\\"sàn diễn Dior tuần lễ thời trang\\\" src=\\\"https://www.elle.vn/wp-content/uploads/2020/03/26/395022/san-dien-Dior-tuan-le-thoi-trang.jpg\\\" alt=\\\"sàn diễn Dior tuần lễ thời trang Xuân Hè 2020\\\" width=\\\"850\\\" height=\\\"530\\\" /></p>\\n<h2 style=\\\"text-align: justify;\\\">Lanvin</h2>\\n<p style=\\\"text-align: justify;\\\">Sàn diễn dưới mưa của Lanvin được mở ra trong khu vườn thơ mộng thuộc khuôn viên Musee du Quai Branly, thủ đô Paris. Những chiếc ô trong suốt dưới cơn mưa nhân tạo mang lại cảm giác đặc biệt cho người xem. Điều đặc biệt là mỗi vị khách sẽ nghe bài hát yêu thích của mình thông qua tai nghe được bố trí tại chỗ ngồi.</p>\\n<p><img class=\\\"sàn trình diễn thời trang dưới mưa Lanvin aligncenter wp-image-395265 size-full\\\" title=\\\"sàn trình diễn thời trang dưới mưa Lanvin\\\" src=\\\"https://www.elle.vn/wp-content/uploads/2020/03/26/395022/san-dien-duoi-mua-Lanvin.jpg\\\" alt=\\\"sàn trình diễn thời trang dưới mưa Lanvin Xuân Hè 2020\\\" width=\\\"850\\\" height=\\\"650\\\" /></p>\\n<h2 style=\\\"text-align: justify;\\\">Balenciaga</h2>\\n<p style=\\\"text-align: justify;\\\">Nhà mốt Balenciaga đã dựng nên sàn diễn hư cấu, mô phỏng phòng hội nghị của Liên Hiệp Quốc. Những hàng ghế vòng cung tạo thành không gian hình xoắn ốc, như một hội nghị “quyền lực”. Màu xanh – classic blue nhuộm kín sàn diễn tạo nên những góc nhìn mê hoặc. Trong BST này, Giám đốc sáng tạo Demna Gvasalia nâng tầm trang phục bảo hộ cùng với lối tạo phom bồng quen thuộc.</p>\\n<p><img class=\\\"sàn diễn hội nghị Balenciaga aligncenter wp-image-395266 size-full\\\" title=\\\"sàn diễn hội nghị Balenciaga\\\" src=\\\"https://www.elle.vn/wp-content/uploads/2020/03/26/395022/san-dien-hoi-nghi-Balenciaga.jpg\\\" alt=\\\"sàn diễn hội nghị Balenciaga tuần lễ thời trang Xuân Hè 2020\\\" width=\\\"850\\\" height=\\\"430\\\" /></p>\\n</div>\"",
+        "created_at": "17/4/2020",
+        "id": 3
+      },
+      {
+        "title": "Đón đầu xu hướng từ 10 BST thời trang Xuân Hè 2020 đặc sắc nhất",
+        "author": "admin",
+        "image": "https://www.elle.vn/wp-content/uploads/2020/03/28/395424/bst-thoi-trang-Xuan-He-2020-Chanel.jpg",
+        "decription": "Cùng ELLE bước vào không gian mùa Xuân và ngắm nhìn những thiết kế, BST đẹp nhất từ Tuần lễ thời trang Xuân – Hè 2020.",
+        "body": "\"<p>Cùng ELLE bước vào không gian mùa Xuân và ngắm nhìn những thiết kế, BST đẹp nhất từ Tuần lễ thời trang Xuân – Hè 2020.</p>\\n                            </div>\\n                            <div itemprop=\\\"articleBody\\\" class=\\\"content-detail__content\\\">\\n                                <p>Từ phong cách “Parisian chic” mới mẻ của Chanel, những bộ trang phục mang hơi thở thiên nhiên của Dior đến dấu ấn hoài cổ của thập niên 60, 70, 90 trong BST của Louis Vuitton và Gucci, sàn diễn thời trang Xuân Hè 2020 mang đến muôn vàn xu hướng mới cho các tín đồ thực thụ.</p>\\n<h2 style=\\\"text-align: justify;\\\">ALEXANDER MCQUEEN – THẬP KỶ SỐNG LẠI</h2>\\n<p style=\\\"text-align: justify;\\\">NTK Sarah Burton tái sử dụng các thiết kế cũ từ thời Alexander McQueen và các BST thời trang gần đây để làm nên BST Xuân – Hè 2020. Ren, organza và vải tuyn từ các mùa trước “sống lại” trong những phom dáng hoài cổ pha nét đương đại. NTK kết hợp cùng thợ dệt lanh duy nhất còn lại ở Ireland để làm ra các tấm vải lanh mỏng như tờ giấy rồi đưa lên mẫu mốt của thập niên mới.</p>\\n<p><img class=\\\"bst thời trang Xuân Hè 2020 Alexander McQueen aligncenter wp-image-395475 size-full\\\" title=\\\"bst thời trang Xuân Hè 2020 Alexander McQueen\\\" src=\\\"https://www.elle.vn/wp-content/uploads/2020/03/28/395424/bst-thoi-trang-Xuan-He-2020-Alexander-McQueen.jpg\\\" alt=\\\"bst thời trang Xuân Hè 2020 Alexander McQueen\\\" width=\\\"850\\\" height=\\\"1075\\\" /></p>\\n</div>\"",
+        "created_at": "19/4/2020",
+        "id": 4
+      }
+    ],
+    "comments_post": [
+      {
+        "id": 1,
+        "name": "aaaa",
+        "email": "abc@gmail.com",
+        "content": "some comment",
+        "postId": 1,
+        "created_at": "30/03/2020"
+      },
+      {
+        "id": 2,
+        "name": "aaaa",
+        "email": "abc@gmail.com",
+        "content": "some comment",
+        "postId": 2,
+        "created_at": "30/03/2020"
+      },
+      {
+        "id": 3,
+        "name": "aaaa",
+        "email": "abc@gmail.com",
+        "content": "some comment",
+        "postId": 3,
+        "created_at": "30/03/2020"
+      }
+    ],
+    "categories_products": [
+      {
+        "id": 1,
+        "name": "Men conlection"
+      },
+      {
+        "id": 2,
+        "name": "Women conlection"
+      }
+    ],
+    "products": [
+      {
+        "name": "Áo sơ mi nữ",
+        "image": "https://www.remove.bg/assets/start_remove-79a4598a05a77ca999df1dcb434160994b6fde2c3e9101984fb1be0f16d0a74e.png",
+        "price": 100000,
+        "sale": 0,
+        "shortDetail": "Là sản phẩm thời trang được ưa chuộng vào tất cả các mùa trong năm, đặc biệt là với thời trang hè-thu, áo sơ mi nu trở thành món đồ thiết yếu với các chị em công sở.",
+        "detail": "\"chitiet\"",
+        "quantity": 0,
+        "categories_product": 1,
+        "created_at": "17/4/2020",
+        "id": 1
+      },
+      {
+        "name": "Bộ thể thao",
+        "image": "https://cf.shopee.vn/file/e60adb2002b1f247840e45c9d8d0c2b6",
+        "price": 130000,
+        "sale": 125000,
+        "shortDetail": "Trang phục thể thao nam đã có mặt tại Shopee với sự đa dạng về thiết kế và mẫu mã. Shopee giao hàng nhanh chóng-thanh toán linh hoạt-ưu đãi hấp dẫn. Mua ngay!",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 2,
+        "created_at": "17/4/2020",
+        "id": 2
+      },
+      {
+        "id": 3,
+        "name": "Áo khoác bò",
+        "image": "https://ae01.alicdn.com/kf/H19dfd3f743934d88b6da78598d24e44d2.jpg_q50.jpg",
+        "price": 110000,
+        "sale": 105000,
+        "shortDetail": "Áo khoác jean nam, áo bò nam cá tính, bụi bặm mạnh mẽ phong cách 2019 đi cùng cam kết chất lượng! đặt hàng thanh toán tại nhà!",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 1,
+        "created_at": "26/03/2020"
+      },
+      {
+        "name": "Áo đôi Neon",
+        "image": "https://cdn.vatgia.vn/pictures/fullsize/2016/05/07/wvq1462627250.jpg",
+        "price": 170000,
+        "sale": 165000,
+        "shortDetail": "Ưu điểm của áo phông là dễ mặc, dễ phối và giá thành rẻ, ít nhăn không cần là ủi và thích hợp cho vận động khiến áo thun trở nên khá phổ biến, có thể mặc được nhiều dịp từ tập luyện thể thao cho đến đi chơi với bạn bè.",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 2,
+        "created_at": "17/4/2020",
+        "id": 4
+      },
+      {
+        "id": 5,
+        "name": "Áo phông X đen",
+        "image": "https://cf.shopee.vn/file/a214c674e958cc3e86bf1a024f160306",
+        "price": 105000,
+        "sale": 100000,
+        "shortDetail": "Ưu điểm của áo phông là dễ mặc, dễ phối và giá thành rẻ, ít nhăn không cần là ủi và thích hợp cho vận động khiến áo thun trở nên khá phổ biến, có thể mặc được nhiều dịp từ tập luyện thể thao cho đến đi chơi với bạn bè.",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 1,
+        "created_at": "28/03/2020"
+      },
+      {
+        "name": "Túi sách tay nữ",
+        "image": "https://cf.shopee.vn/file/be4ea403dd93e565b4164880861a216f",
+        "price": 105000,
+        "sale": 0,
+        "shortDetail": "Thời trang Túi Xách nữ đẹp cho công sở, dự tiệc từ thương hiệu Juno ✓ Mẫu mới nhất  ✓ Giao hàng toàn quốc ✓ 90 ngày đổi trả MIỄN PHÍ.",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 2,
+        "created_at": "17/4/2020",
+        "id": 6
+      },
+      {
+        "name": "Áo len nam cổ tròn",
+        "image": "http://aothudong.com/upload/product/atd-044/ao-len-nam-co-tron-han-quoc.jpg",
+        "price": 115000,
+        "sale": 100000,
+        "shortDetail": "Mua áo len nữ giao tận nơi và tham khảo thêm nhiều sản phẩm  khác. Miễn phí vận chuyển toàn quốc cho mọi đơn hàng . Đổi trả dễ dàng. Thanh toán bảo mật. Đặt mua ngay!",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 1,
+        "created_at": "17/4/2020",
+        "id": 7
+      },
+      {
+        "name": "Bộ công sở nữ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSS37hVo3thhDSMvSAPDajYlg1SUrBkgFu_OunVcR4s1GEy1b4s&usqp=CAU",
+        "price": 135000,
+        "sale": 130000,
+        "shortDetail": "Thời trang công sở hiện đại phóng khoáng trẻ trung chị em không chỉ diện áo sơ mi kết hợp chân váy mà có nhiều set đồ cá tính phong cách các cô nàng cũng có thể tự tin lựa chọn nhé!",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 2,
+        "created_at": "17/4/2020",
+        "id": 8
+      },
+      {
+        "name": "Áo phông Power",
+        "image": "https://cdn2.yame.vn/pimg/ao-thun-nam-y2010-basic-am04-0019542/29e8f005-35cd-1400-8e52-0016a7815ec0.jpg?w=540&h=756&c=true&ntf=false",
+        "price": 150000,
+        "sale": 149000,
+        "shortDetail": "Ưu điểm của áo phông là dễ mặc, dễ phối và giá thành rẻ, ít nhăn không cần là ủi và thích hợp cho vận động khiến áo thun trở nên khá phổ biến, có thể mặc được nhiều dịp từ tập luyện thể thao cho đến đi chơi với bạn bè.",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 1,
+        "created_at": "17/4/2020",
+        "id": 9
+      },
+      {
+        "name": "Áo sơ mi",
+        "image": "https://cf.shopee.vn/file/04fdcee58d05dc61bebb2e8630738f8b",
+        "price": 145000,
+        "sale": 139000,
+        "shortDetail": "Là sản phẩm thời trang được ưa chuộng vào tất cả các mùa trong năm, đặc biệt là với thời trang hè-thu, áo sơ mi trở thành món đồ thiết yếu với các anh chị em công sở.",
+        "detail": "\"chitiet\"",
+        "quantity": 50,
+        "categories_product": 2,
+        "created_at": "29/3/2020",
+        "id": 10
+      },
+      {
+        "name": "Bộ combo hè nam",
+        "image": "https://tea-1.lozi.vn/v1/images/resized/ao-phong-the-thao-chat-lanh-cuc-mat-anh-that-1538814549-1-6241973-1538814549?w=480&type=s",
+        "price": 99000,
+        "sale": 89000,
+        "shortDetail": "Trang phục thể thao nam đã có mặt tại Shopee với sự đa dạng về thiết kế và mẫu mã. Shopee giao hàng nhanh chóng-thanh toán linh hoạt-ưu đãi hấp dẫn. Mua ngay!",
+        "detail": "\"chitiet\"",
+        "quantity": 111,
+        "categories_product": 1,
+        "created_at": "29/3/2020",
+        "id": 11
+      },
+      {
+        "id": 12,
+        "name": "Váy chống nắng nữ",
+        "image": "https://anh.eva.vn/upload/1-2017/images/2017-02-05/p--13--1486305962-width600height900.jpg",
+        "price": 155000,
+        "sale": 145000,
+        "shortDetail": "BST Áo Váy chống nắng nữ tại CANIFA được thiết kế từ chất liệu mềm mại, co giãn và thấm hút mồ hôi cực tốt nhờ công nghệ Drytech.",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 2,
+        "created_at": "29/03/2020"
+      },
+      {
+        "id": 13,
+        "name": "Áo phông face",
+        "image": "https://znews-photo.zadn.vn/w660/Uploaded/lce_mdlwc/2019_09_09/hhh.jpg",
+        "price": 125000,
+        "sale": 100000,
+        "shortDetail": "Ưu điểm của áo phông là dễ mặc, dễ phối và giá thành rẻ, ít nhăn không cần là ủi và thích hợp cho vận động khiến áo thun trở nên khá phổ biến, có thể mặc được nhiều dịp từ tập luyện thể thao cho đến đi chơi với bạn bè.",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 1,
+        "created_at": "30/03/2020"
+      },
+      {
+        "id": 14,
+        "name": "Áo dài tay nữ",
+        "image": "https://i.pinimg.com/236x/78/78/18/787818cfd8ef95548411278b785c260c.jpg",
+        "price": 115000,
+        "sale": 99000,
+        "shortDetail": "Mua áo phông dài tay giao tận nơi và tham khảo thêm nhiều sản phẩm Áo khác. Miễn phí vận chuyển toàn quốc cho mọi đơn hàng Thời Trang Nữ.",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 2,
+        "created_at": "24/03/2020"
+      },
+      {
+        "id": 15,
+        "name": "Áo phông art",
+        "image": "https://cdn3.yame.vn/pimg/ao-thun-nam-y2010-basic-am03-0019541/acefa827-2339-1300-ccc6-0016a7814391.jpg?w=540&h=756&c=true&ntf=false",
+        "price": 165000,
+        "sale": 150000,
+        "shortDetail": "Ưu điểm của áo phông là dễ mặc, dễ phối và giá thành rẻ, ít nhăn không cần là ủi và thích hợp cho vận động khiến áo thun trở nên khá phổ biến, có thể mặc được nhiều dịp từ tập luyện thể thao cho đến đi chơi với bạn bè.",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 1,
+        "created_at": "24/03/2020"
+      },
+      {
+        "id": 16,
+        "name": "Quần bò nữ",
+        "image": "https://i.pinimg.com/236x/88/88/79/8888798b0d06012aa29029065b041d1d.jpg",
+        "price": 145000,
+        "sale": 120000,
+        "shortDetail": "Mua ngay kiểu quần Jeans yêu thích tại thời trang CANIFA. Nhiều mẫu quần bò đẹp với kiếu dáng phong phú, giúp bạn nữ tôn dáng ngọc.",
+        "detail": "\"chitiet\"",
+        "quantity": 10,
+        "categories_product": 2,
+        "created_at": "24/03/2020"
+      }
+    ],
+    "comments_product": [
+      {
+        "id": 1,
+        "name": "aaaa",
+        "email": "abc@gmail.com",
+        "content": "some comment",
+        "productId": 1,
+        "created_at": "30/03/2020"
+      },
+      {
+        "id": 2,
+        "name": "aaaa",
+        "email": "abc@gmail.com",
+        "content": "some comment",
+        "productId": 2,
+        "created_at": "26/03/2020"
+      },
+      {
+        "id": 3,
+        "name": "aaaa",
+        "email": "abc@gmail.com",
+        "content": "some comment",
+        "productId": 3,
+        "created_at": "03/04/2020"
+      },
+      {
+        "name": "tamnpph08667",
+        "email": "tam2012000@gmail.com",
+        "content": "a",
+        "productId": 7,
+        "created_at": "15/4/2020",
+        "id": 4
+      },
+      {
+        "name": "tamnpph08667",
+        "email": "tam2012000@gmail.com",
+        "content": "b",
+        "productId": 7,
+        "created_at": "15/4/2020",
+        "id": 5
+      },
+      {
+        "name": "tamnpph08667",
+        "email": "tam2012000@gmail.com",
+        "content": "zzz",
+        "productId": 9,
+        "created_at": "17/4/2020",
+        "id": 6
+      },
+      {
+        "name": "tamnpph08667",
+        "email": "tamnpph08667@fpt.edu.vn",
+        "content": "test comment",
+        "productId": 13,
+        "created_at": "18/4/2020",
+        "id": 7
+      }
+    ],
+    "product_images": [
+      {
+        "id": 1,
+        "alt": "Men conlection",
+        "src": "https://metricool.com/wp-content/uploads/jason-blackeye-364785-2.jpg",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "alt": "Women conlection",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRQ7Wc9Rp1YQjEZ1ydpdQFdVRGaaafZTrEvPIPp_qrVCeGFnqy&usqp=CAU",
+        "productId": 2
+      },
+      {
+        "id": 3,
+        "alt": "Slide conlection",
+        "src": "https://cf.shopee.vn/file/2f386c65777741c1dd0cc4626a30d32d",
+        "productId": 3
+      },
+      {
+        "id": 4,
+        "alt": "Best conlection",
+        "src": "https://via.placeholder.com/350x350.png?text=Image",
+        "productId": 4
+      },
+      {
+        "id": 5,
+        "alt": "Men conlection",
+        "src": "https://product.hstatic.net/1000367481/product/ao-phong-uniqlo-x-kaws-den-1621018__1__c37397f3418345549ffbe354fd06a25c_master.jpg",
+        "productId": 5
+      },
+      {
+        "id": 6,
+        "alt": "Women conlection",
+        "src": "https://hangphukien.com/wp-content/uploads/2017/06/TX-056-1.jpg",
+        "productId": 6
+      },
+      {
+        "id": 7,
+        "alt": "Slide conlection",
+        "src": "http://aothudong.com/upload/product/atd-044/ao-len-nam-co-tron-han-quoc-3.jpg",
+        "productId": 7
+      },
+      {
+        "id": 8,
+        "alt": "Best conlection",
+        "src": "https://lh3.googleusercontent.com/proxy/poE6sMf1WYFiyWXXNNw3ucNJGXYSdvsn3qHGqPa6Qcgs7uACP3tzaT8RUiiSe9b_RTZ5tiRaQfH1Bd7WPBSP8HZ1ZVXIgnFpMTZcWV61vm4_i0fCkQKvCM6nGaH1QUTwIZIoZIMxX11SZpSUBb28r1NbyXYGuULyKE-D3-ZBEIBjsmpmYarBpVlUL_nggae_xKE_dVJiWzL_KI9AgvlATeCKI0JeS64MgA",
+        "productId": 8
+      },
+      {
+        "id": 9,
+        "alt": "Best conlection",
+        "src": "https://cdn2.yame.vn/pimg/ao-thun-nam-y2010-basic-ac03-0019422/2c6deffe-97c9-2500-507b-0016a7835cc4.jpg?w=540&h=756&c=true&ntf=false",
+        "productId": 9
+      },
+      {
+        "id": 10,
+        "alt": "Best conlection",
+        "src": "https://vn-live-01.slatic.net/p/a369f1d4e0bc2a92834b952258e8821d.jpg",
+        "productId": 10
+      },
+      {
+        "id": 12,
+        "alt": "Best conlection",
+        "src": "https://bizweb.dktcdn.net/thumb/grande/100/163/984/products/f2.png?v=1521878712047",
+        "productId": 12
+      },
+      {
+        "id": 13,
+        "alt": "Best conlection",
+        "src": "https://news.lanhmanh.com/wp-content/uploads/2019/09/2-25.jpg",
+        "productId": 13
+      },
+      {
+        "id": 14,
+        "alt": "Best conlection",
+        "src": "https://media3.scdn.vn/img2/2018/10_31/KYdYs5_simg_de2fe0_500x500_maxb.jpg",
+        "productId": 14
+      },
+      {
+        "id": 15,
+        "alt": "Best conlection",
+        "src": "https://cdn2.yame.vn/pimg/ao-thun-nam-y2010-basic-ac03-0019422/2c6deffe-97c9-2500-507b-0016a7835cc4.jpg?w=540&h=756&c=true&ntf=false",
+        "productId": 15
+      },
+      {
+        "id": 16,
+        "alt": "Best conlection",
+        "src": "https://tramyluxury.com/wp-content/uploads/2017/11/quan-jean-nu.jpg",
+        "productId": 16
+      }
+    ],
+    "sliders": [
+      {
+        "id": 1,
+        "title": "Men conlection",
+        "sale": "Sale up to 50% off",
+        "content": "Hà Nội",
+        "url": "categories=1",
+        "image": "https://metricool.com/wp-content/uploads/jason-blackeye-364785-2.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Women conlection",
+        "sale": "Sale up to 45% off",
+        "content": "Hà Nội 2",
+        "url": "categories=2",
+        "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+      },
+      {
+        "id": 3,
+        "title": "Slide conlection",
+        "sale": "Sale up to 65% off",
+        "content": "Hà Nội 3",
+        "url": "categories=1",
+        "image": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+      },
+      {
+        "id": 4,
+        "title": "Best conlection",
+        "sale": "Sale up to 35% off",
+        "content": "Hà Nội 4",
+        "url": "categories=2",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+      }
+    ],
+    "contacts": [],
+    "bills": [
+      {
+        "fullName": "nguyễn phú tâm",
+        "email": "tam2012000@gmail.com",
+        "phone": "0987632145",
+        "address": "Ngõ 20 - HTM - Mai Dịch - Hà Nội",
+        "note": "",
+        "listItem": "[{\"id\":9,\"name\":\"Áo phông Power\",\"image\":\"https://cdn2.yame.vn/pimg/ao-thun-nam-y2010-basic-am04-0019542/29e8f005-35cd-1400-8e52-0016a7815ec0.jpg?w=540&h=756&c=true&ntf=false\",\"price\":150000,\"sale\":149000,\"qty\":1},{\"id\":13,\"name\":\"Áo phông face\",\"image\":\"https://znews-photo.zadn.vn/w660/Uploaded/lce_mdlwc/2019_09_09/hhh.jpg\",\"price\":125000,\"sale\":100000,\"qty\":1},{\"id\":3,\"name\":\"Áo khoác bò\",\"image\":\"https://ae01.alicdn.com/kf/H19dfd3f743934d88b6da78598d24e44d2.jpg_q50.jpg\",\"price\":110000,\"sale\":105000,\"qty\":1}]",
+        "created_at": "16/4/2020",
+        "status": "Thành công",
+        "id": 2
+      },
+      {
+        "fullName": "Nguyễn Tâm",
+        "email": "tam2000@gmail.com",
+        "phone": "0987123456",
+        "address": "xóm 123 ngõ 123 - xã xcv - Huyện abc - Hà Nội",
+        "note": "chỉ nhận hàng sau dịch",
+        "listItem": "[{\"id\":4,\"name\":\"Áo đôi Neon\",\"image\":\"https://cdn.vatgia.vn/pictures/fullsize/2016/05/07/wvq1462627250.jpg\",\"price\":170000,\"sale\":165000,\"qty\":3},{\"id\":10,\"name\":\"Áo sơ mi\",\"image\":\"https://cf.shopee.vn/file/04fdcee58d05dc61bebb2e8630738f8b\",\"price\":145000,\"sale\":139000,\"qty\":1},{\"id\":5,\"name\":\"Áo phông X đen\",\"image\":\"https://cf.shopee.vn/file/a214c674e958cc3e86bf1a024f160306\",\"price\":105000,\"sale\":100000,\"qty\":1}]",
+        "created_at": "18/4/2020",
+        "status": "Thành công",
+        "id": 3
+      }
+    ]
+  }
